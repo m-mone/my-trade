@@ -1,0 +1,35 @@
+pip==9.0.1
+bumpversion==0.5.3
+wheel==0.30.0
+watchdog==0.8.3
+flake8==3.5.0
+coverage==4.5.1
+Sphinx==1.7.1
+twine==1.10.0
+
+pytest==3.4.2
+tox==2.9.1
+pytest-asyncio
+pytest-runner==2.11.1
+
+# require:
+aiohttp==3.4.1
+cchardet==2.1.1
+aiodns==1.1.1
+kafka-python==1.4.3
+aiokafka
+
+#
+uvloop==0.11.2
+
+# https://pyyaml.org/wiki/PyYAMLDocumentation
+#   - python setup.py --with-libyaml install
+pyyaml==3.13
+
+#
+coloredlogs==10.0
+
+selenium
+furl==2.0.0
+pygelf==0.3.4
+marshmallow==2.15.5

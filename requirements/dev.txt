@@ -1,0 +1,11 @@
+aiohttp_debugtoolbar
+
+aioresponses
+
+# test:
+pytest-sanic
+aiomock
+aiodebug
+
+pytest-cov
+coverage>=4.0,<4.4

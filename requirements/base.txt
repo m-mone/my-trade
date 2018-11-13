@@ -1,0 +1,42 @@
+sanic
+aiohttp
+uvloop
+
+#
+# sanic-restplus
+sanic-openapi
+
+environs
+
+cchardet
+aiodns
+aiohttp_cors
+aiohttp_session[aioredis]
+
+
+aiomysql
+peewee-async
+
+#
+motor
+aioinflux
+aiokafka
+aiozipkin
+#
+hiredis
+aioredis
+#
+aiorun
+
+# pb+grpc
+protobuf
+grpcio
+grpcio-tools
+
+
+sanic-admin
+sanic-sentry
+tenacity
+# sdk:
+pygelf==0.3.4
+
