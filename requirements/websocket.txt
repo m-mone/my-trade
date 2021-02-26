@@ -13,7 +13,7 @@ pytest-asyncio
 pytest-runner==2.11.1
 
 # require:
-aiohttp==3.4.1
+aiohttp==3.7.4
 cchardet==2.1.1
 aiodns==1.1.1
 kafka-python==1.4.3
