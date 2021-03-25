@@ -24,7 +24,7 @@ uvloop==0.11.2
 
 # https://pyyaml.org/wiki/PyYAMLDocumentation
 #   - python setup.py --with-libyaml install
-pyyaml==5.1
+pyyaml==5.4
 
 #
 coloredlogs==10.0
